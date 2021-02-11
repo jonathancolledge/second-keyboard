@@ -1,3 +1,5 @@
+I've forked and modified this for future use. I've added a Lua script for my keyboards and some examples within it. For real use, it'd need to be modified.</br>
+
 COMPLETE INSTRUCTIONS: https://medium.com/@vazquezrius.miquel/secondkeyboard-1c39e52e023b
 In short, run set_up.bat (when prompted, accept admin permission and install AutoHotkey in "C:\Program Files\"), and then edit the scripts of LuaMacros and AutoHotKey without modifing their file name. They can be found inside LuaMacros and AutoHotkeyPortable folders.
 
